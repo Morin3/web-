@@ -22,7 +22,7 @@
     "dotenv": "^16.4.5",
     "prettier": "^3.3.0",
     "prettier-plugin-tailwindcss": "^0.6.1",
-    "tsx": "^4.15.1",
+    "tsx": "^4.19.2",
     "turbo": "^2.0.9"
   },
   "engines": {
