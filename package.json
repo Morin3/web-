@@ -19,7 +19,7 @@
   "devDependencies": {
     "@repo/eslint-config": "*",
     "@repo/typescript-config": "*",
-    "dotenv": "^16.4.5",
+    "dotenv": "^16.4.7",
     "prettier": "^3.3.0",
     "prettier-plugin-tailwindcss": "^0.6.1",
     "tsx": "^4.15.1",
