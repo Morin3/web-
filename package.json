@@ -20,7 +20,7 @@
     "@repo/eslint-config": "*",
     "@repo/typescript-config": "*",
     "dotenv": "^16.4.5",
-    "prettier": "^3.3.0",
+    "prettier": "^3.4.2",
     "prettier-plugin-tailwindcss": "^0.6.1",
     "tsx": "^4.15.1",
     "turbo": "^2.0.9"
